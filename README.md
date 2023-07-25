@@ -31,9 +31,9 @@ This project is licensed under the MIT license. See the [LICENSE](https://openso
 
 N/A
 
-## Tests
+## Links
 
-N/A
+Heroku Link: https://git.heroku.com/pwa-text-editor1993.git
 
 ## Questions
 
